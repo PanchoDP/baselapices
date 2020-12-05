@@ -1,0 +1,29 @@
+<annotation>
+    <folder>imagenes</folder>
+    <filename>35.jpg</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>lapiz</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1679</xmin>
+            <ymin>1599</ymin>
+            <xmax>1809</xmax>
+            <ymax>2299</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>lapiz</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1337</xmin>
+            <ymin>1624</ymin>
+            <xmax>1494</xmax>
+            <ymax>2325</ymax>
+        </bndbox>
+    </object>
+</annotation>
