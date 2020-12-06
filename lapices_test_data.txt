@@ -1,6 +1,5 @@
-Lapices/imagenes/54.jpg 2131,2075,387,1957,0
-Lapices/imagenes/55.jpg 1406,1870,1430,392,0
-Lapices/imagenes/6.jpg 1265,2237,409,2529,0
-Lapices/imagenes/7.jpg 1536,1661,373,767,0
-Lapices/imagenes/8.jpg 1219,2115,757,1951,0
-Lapices/imagenes/9.jpg 1614,2158,802,2443,0
+Lapices/imagenes/55.jpg 1870,1406,392,1430,0
+Lapices/imagenes/6.jpg 2237,1265,2529,409,0
+Lapices/imagenes/7.jpg 1661,1536,767,373,0
+Lapices/imagenes/8.jpg 2115,1219,1951,757,0
+Lapices/imagenes/9.jpg 2158,1614,2443,802,0
