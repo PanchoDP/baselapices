@@ -1,48 +1,49 @@
-Lapices/imagenes/1.jpg 2211 1914 164 1743 0
-Lapices/imagenes/10.jpg 1290 2288 741 2206 0
-Lapices/imagenes/11.jpg 1200 1898 603 2594 0
-Lapices/imagenes/12.jpg 1464 2173 885 1835 0
-Lapices/imagenes/13.jpg 1687 1832 1543 2868 0
-Lapices/imagenes/14.jpg 1347 2323 446 2034 0
-Lapices/imagenes/15.jpg 1415 2319 242 2207 0
-Lapices/imagenes/16.jpg 881 1907 1129 2249 0
-Lapices/imagenes/17.jpg 2324 2055 456 2962 0
-Lapices/imagenes/18.jpg 1467 2162 235 2048 0
-Lapices/imagenes/19.jpg 1349 2217 446 2560 0
-Lapices/imagenes/2.jpg 945 3088 1385 1097 0
-Lapices/imagenes/20.jpg 1912 2190 429 2160 0
-Lapices/imagenes/21.jpg 2210 2653 310 1866 0
-Lapices/imagenes/22.jpg 2905 1490 238 639 0
-Lapices/imagenes/23.jpg 1792 1831 636 1901 0
-Lapices/imagenes/24.jpg 1128 2070 647 2833 0
-Lapices/imagenes/25.jpg 2675 1702 698 2211 0
-Lapices/imagenes/26.jpg 1670 2013 2079 476 0
-Lapices/imagenes/27.jpg 2760 1217 1987 816 0
-Lapices/imagenes/28.jpg 1678 2378 1289 958 0
-Lapices/imagenes/29.jpg 1508 2114 1452 318 0
-Lapices/imagenes/3.jpg 1499 2053 983 579 0
-Lapices/imagenes/30.jpg 1548 1889 1421 377 0
-Lapices/imagenes/31.jpg 1513 1493 1155 193 0
-Lapices/imagenes/32.jpg 1688 3157 2046 405 0
-Lapices/imagenes/33.jpg 1583 2233 324 2004 0
-Lapices/imagenes/34.jpg 1961 2128 312 2109 0
-Lapices/imagenes/35.jpg 1744 1949 131 701 0
-Lapices/imagenes/36.jpg 1477 2179 535 1841 0
-Lapices/imagenes/37.jpg 1432 2227 569 1988 0
-Lapices/imagenes/38.jpg 1135 1692 431 1699 0
-Lapices/imagenes/39.jpg 1589 2795 2127 692 0
-Lapices/imagenes/4.jpg 1283 2460 1784 365 0
-Lapices/imagenes/40.jpg 1540 2261 2085 730 0
-Lapices/imagenes/41.jpg 1702 2193 646 2686 0
-Lapices/imagenes/42.jpg 1501 2342 466 2513 0
-Lapices/imagenes/43.jpg 1506 2151 502 2798 0
-Lapices/imagenes/44.jpg 1118 2172 597 3090 0
-Lapices/imagenes/45.jpg 1544 2122 827 1875 0
-Lapices/imagenes/46.jpg 1502 2329 2059 527 0
-Lapices/imagenes/47.jpg 1877 2094 2294 1205 0
-Lapices/imagenes/48.jpg 1580 2040 439 1945 0
-Lapices/imagenes/49.jpg 1743 2022 440 2019 0
-Lapices/imagenes/5.jpg 951 2781 820 863 0
-Lapices/imagenes/50.jpg 1414 3147 1843 636 0
-Lapices/imagenes/51.jpg 1628 1988 262 664 0
-Lapices/imagenes/52.jpg 2344 2432 838 374 0
+Lapices/imagenes/1.jpg 2211,1914,164,1743,0
+Lapices/imagenes/10.jpg 1290,2288,741,2206,0
+Lapices/imagenes/11.jpg 1200,1898,603,2594,0
+Lapices/imagenes/12.jpg 1464,2173,885,1835,0
+Lapices/imagenes/13.jpg 1687,1832,1543,2868,0
+Lapices/imagenes/14.jpg 1347,2323,446,2034,0
+Lapices/imagenes/15.jpg 1415,2319,242,2207,0
+Lapices/imagenes/16.jpg 881,1907,1129,2249,0
+Lapices/imagenes/17.jpg 2324,2055,456,2962,0
+Lapices/imagenes/18.jpg 1467,2162,235,2048,0
+Lapices/imagenes/19.jpg 1349,2217,446,2560,0
+Lapices/imagenes/2.jpg 945,3088,1385,1097,0
+Lapices/imagenes/20.jpg 1912,2190,429,2160,0
+Lapices/imagenes/21.jpg 2210,2653,310,1866,0
+Lapices/imagenes/22.jpg 2905,1490,238,639,0
+Lapices/imagenes/23.jpg 1792,1831,636,1901,0
+Lapices/imagenes/24.jpg 1128,2070,647,2833,0
+Lapices/imagenes/25.jpg 2675,1702,698,2211,0
+Lapices/imagenes/26.jpg 1670,2013,2079,476,0
+Lapices/imagenes/27.jpg 2760,1217,1987,816,0
+Lapices/imagenes/28.jpg 1678,2378,1289,958,0
+Lapices/imagenes/29.jpg 1508,2114,1452,318,0
+Lapices/imagenes/3.jpg 1499,2053,983,579,0
+Lapices/imagenes/30.jpg 1548,1889,1421,377,0
+Lapices/imagenes/31.jpg 1513,1493,1155,193,0
+Lapices/imagenes/32.jpg 1688,3157,2046,405,0
+Lapices/imagenes/33.jpg 1583,2233,324,2004,0
+Lapices/imagenes/34.jpg 1961,2128,312,2109,0
+Lapices/imagenes/35.jpg 1744,1949,131,701,0
+Lapices/imagenes/36.jpg 1477,2179,535,1841,0
+Lapices/imagenes/37.jpg 1432,2227,569,1988,0
+Lapices/imagenes/38.jpg 1135,1692,431,1699,0
+Lapices/imagenes/39.jpg 1589,2795,2127,692,0
+Lapices/imagenes/4.jpg 1283,2460,1784,365,0
+Lapices/imagenes/40.jpg 1540,2261,2085,730,0
+Lapices/imagenes/41.jpg 1702,2193,646,2686,0
+Lapices/imagenes/42.jpg 1501,2342,466,2513,0
+Lapices/imagenes/43.jpg 1506,2151,502,2798,0
+Lapices/imagenes/44.jpg 1118,2172,597,3090,0
+Lapices/imagenes/45.jpg 1544,2122,827,1875,0
+Lapices/imagenes/46.jpg 1502,2329,2059,527,0
+Lapices/imagenes/47.jpg 1877,2094,2294,1205,0
+Lapices/imagenes/48.jpg 1580,2040,439,1945,0
+Lapices/imagenes/49.jpg 1743,2022,440,2019,0
+Lapices/imagenes/5.jpg 951,2781,820,863,0
+Lapices/imagenes/50.jpg 1414,3147,1843,636,0
+Lapices/imagenes/51.jpg 1628,1988,262,664,0
+Lapices/imagenes/52.jpg 2344,2432,838,374,0
+Lapices/imagenes/53.jpg 1723,2326,358,2036,0
