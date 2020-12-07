@@ -1,49 +1,49 @@
-baselapices\imagenes\7.jpg 1350,1278,1722,2044,0 
-baselapices\imagenes\8.jpg 841,1140,1597,3090,0 
-baselapices\imagenes\3.jpg 1008,1764,1990,2342,0 571,2012,1235,2965,0 
-baselapices\imagenes\9.jpg 1214,937,2015,3379,0 
-baselapices\imagenes\23.jpg 1475,881,2110,2781,0 496,1039,672,3071,0 
-baselapices\imagenes\31.jpg 936,1397,2090,1589,0 2286,1106,2439,2312,0 672,1195,905,2452,0 
-baselapices\imagenes\22.jpg 2787,1171,3024,1809,0 1969,1385,2420,3024,0 798,1216,1442,2788,0 
-baselapices\imagenes\17.jpg 2097,575,2552,3536,0 979,501,1302,3395,0 
-baselapices\imagenes\20.jpg 1698,1111,2126,3270,0 798,1136,1160,3358,0 
-baselapices\imagenes\21.jpg 2056,1721,2365,3586,0 1270,1671,1579,3604,0 584,907,2224,1224,0 
-baselapices\imagenes\27.jpg 1767,810,3753,1625,0 1,1236,1304,1395,0 751,1730,2633,1941,0 
-baselapices\imagenes\29.jpg 783,1956,2234,2273,0 
-baselapices\imagenes\2.jpg 253,2540,1637,3636,0 1352,1644,2189,3009,0 
-baselapices\imagenes\35.jpg 1679,1599,1809,2299,0 1337,1624,1494,2325,0 
-baselapices\imagenes\41.jpg 1380,851,2025,3536,0 
-baselapices\imagenes\40.jpg 498,1897,2582,2626,0 
-baselapices\imagenes\45.jpg 1131,1185,1957,3059,0 
-baselapices\imagenes\46.jpg 473,2066,2531,2592,0 781,951,2530,1464,0 
-baselapices\imagenes\49.jpg 1524,1013,1963,3031,0 675,1071,1337,3026,0 
-baselapices\imagenes\47.jpg 731,1492,3024,2696,0 
-baselapices\imagenes\39.jpg 526,2450,2652,3141,0 395,1841,2588,2272,0 363,1260,2465,1707,0 
-baselapices\imagenes\44.jpg 820,628,1416,3717,0 
-baselapices\imagenes\24.jpg 805,654,1451,3486,0 
-baselapices\imagenes\25.jpg 2327,597,3024,2807,0 1009,915,1412,3829,0 
-baselapices\imagenes\54.jpg 1938,1097,2324,3053,0 1337,1065,1771,3031,0 433,1269,865,3384,0 
-baselapices\imagenes\48.jpg 1361,1068,1799,3012,0 
-baselapices\imagenes\37.jpg 1148,1234,1716,3221,0 
-baselapices\imagenes\13.jpg 916,399,2458,3266,0 
-baselapices\imagenes\10.jpg 920,1186,1660,3391,0 
-baselapices\imagenes\36.jpg 1210,1259,1744,3099,0 
-baselapices\imagenes\52.jpg 1926,2246,2763,2619,0 2159,1092,2421,1896,0 1866,1113,2163,1881,0 
-baselapices\imagenes\50.jpg 493,2830,2335,3465,0 1233,554,1753,1882,0 664,540,1307,1847,0 
-baselapices\imagenes\42.jpg 1269,1086,1734,3598,0 
-baselapices\imagenes\5.jpg 542,2350,1361,3212,0 1068,1425,1835,2107,0 
-baselapices\imagenes\18.jpg 1350,1139,1584,3186,0 
-baselapices\imagenes\12.jpg 1022,1256,1906,3090,0 
-baselapices\imagenes\6.jpg 1061,973,1469,3501,0 
-baselapices\imagenes\53.jpg 1545,1309,1902,3344,0 907,1246,1314,3314,0 
-baselapices\imagenes\19.jpg 1127,938,1572,3497,0 
-baselapices\imagenes\11.jpg 899,602,1501,3195,0 
-baselapices\imagenes\28.jpg 1034,1900,2322,2857,0 911,1744,2071,1993,0 853,1163,2027,1375,0 
-baselapices\imagenes\33.jpg 1422,1232,1745,3235,0 
-baselapices\imagenes\34.jpg 1806,1074,2117,3182,0 783,1031,1094,3261,0 
-baselapices\imagenes\4.jpg 392,2278,2175,2642,0 
-baselapices\imagenes\15.jpg 1295,1216,1536,3422,0 
-baselapices\imagenes\14.jpg 1125,1307,1570,3340,0 
-baselapices\imagenes\43.jpg 1256,753,1757,3550,0 
-baselapices\imagenes\38.jpg 920,843,1350,2541,0 1935,1627,2276,3636,0 313,800,681,2357,0 
-baselapices\imagenes\55.jpg 692,1675,2121,2066,0 1029,2616,2367,3044,0 980,2207,2337,2682,0 
+baselapices/imagenes/7.jpg 1350,1278,1722,2044,0 
+baselapices/imagenes/8.jpg 841,1140,1597,3090,0 
+baselapices/imagenes/3.jpg 1008,1764,1990,2342,0 571,2012,1235,2965,0 
+baselapices/imagenes/9.jpg 1214,937,2015,3379,0 
+baselapices/imagenes/23.jpg 1475,881,2110,2781,0 496,1039,672,3071,0 
+baselapices/imagenes/31.jpg 936,1397,2090,1589,0 2286,1106,2439,2312,0 672,1195,905,2452,0 
+baselapices/imagenes/22.jpg 2787,1171,3024,1809,0 1969,1385,2420,3024,0 798,1216,1442,2788,0 
+baselapices/imagenes/17.jpg 2097,575,2552,3536,0 979,501,1302,3395,0 
+baselapices/imagenes/20.jpg 1698,1111,2126,3270,0 798,1136,1160,3358,0 
+baselapices/imagenes/21.jpg 2056,1721,2365,3586,0 1270,1671,1579,3604,0 584,907,2224,1224,0 
+baselapices/imagenes/27.jpg 1767,810,3753,1625,0 1,1236,1304,1395,0 751,1730,2633,1941,0 
+baselapices/imagenes/29.jpg 783,1956,2234,2273,0 
+baselapices/imagenes/2.jpg 253,2540,1637,3636,0 1352,1644,2189,3009,0 
+baselapices/imagenes/35.jpg 1679,1599,1809,2299,0 1337,1624,1494,2325,0 
+baselapices/imagenes/41.jpg 1380,851,2025,3536,0 
+baselapices/imagenes/40.jpg 498,1897,2582,2626,0 
+baselapices/imagenes/45.jpg 1131,1185,1957,3059,0 
+baselapices/imagenes/46.jpg 473,2066,2531,2592,0 781,951,2530,1464,0 
+baselapices/imagenes/49.jpg 1524,1013,1963,3031,0 675,1071,1337,3026,0 
+baselapices/imagenes/47.jpg 731,1492,3024,2696,0 
+baselapices/imagenes/39.jpg 526,2450,2652,3141,0 395,1841,2588,2272,0 363,1260,2465,1707,0 
+baselapices/imagenes/44.jpg 820,628,1416,3717,0 
+baselapices/imagenes/24.jpg 805,654,1451,3486,0 
+baselapices/imagenes/25.jpg 2327,597,3024,2807,0 1009,915,1412,3829,0 
+baselapices/imagenes/54.jpg 1938,1097,2324,3053,0 1337,1065,1771,3031,0 433,1269,865,3384,0 
+baselapices/imagenes/48.jpg 1361,1068,1799,3012,0 
+baselapices/imagenes/37.jpg 1148,1234,1716,3221,0 
+baselapices/imagenes/13.jpg 916,399,2458,3266,0 
+baselapices/imagenes/10.jpg 920,1186,1660,3391,0 
+baselapices/imagenes/36.jpg 1210,1259,1744,3099,0 
+baselapices/imagenes/52.jpg 1926,2246,2763,2619,0 2159,1092,2421,1896,0 1866,1113,2163,1881,0 
+baselapices/imagenes/50.jpg 493,2830,2335,3465,0 1233,554,1753,1882,0 664,540,1307,1847,0 
+baselapices/imagenes/42.jpg 1269,1086,1734,3598,0 
+baselapices/imagenes/5.jpg 542,2350,1361,3212,0 1068,1425,1835,2107,0 
+baselapices/imagenes/18.jpg 1350,1139,1584,3186,0 
+baselapices/imagenes/12.jpg 1022,1256,1906,3090,0 
+baselapices/imagenes/6.jpg 1061,973,1469,3501,0 
+baselapices/imagenes/53.jpg 1545,1309,1902,3344,0 907,1246,1314,3314,0 
+baselapices/imagenes/19.jpg 1127,938,1572,3497,0 
+baselapices/imagenes/11.jpg 899,602,1501,3195,0 
+baselapices/imagenes/28.jpg 1034,1900,2322,2857,0 911,1744,2071,1993,0 853,1163,2027,1375,0 
+baselapices/imagenes/33.jpg 1422,1232,1745,3235,0 
+baselapices/imagenes/34.jpg 1806,1074,2117,3182,0 783,1031,1094,3261,0 
+baselapices/imagenes/4.jpg 392,2278,2175,2642,0 
+baselapices/imagenes/15.jpg 1295,1216,1536,3422,0 
+baselapices/imagenes/14.jpg 1125,1307,1570,3340,0 
+baselapices/imagenes/43.jpg 1256,753,1757,3550,0 
+baselapices/imagenes/38.jpg 920,843,1350,2541,0 1935,1627,2276,3636,0 313,800,681,2357,0 
+baselapices/imagenes/55.jpg 692,1675,2121,2066,0 1029,2616,2367,3044,0 980,2207,2337,2682,0 
